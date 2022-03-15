@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-helloworldnextjs-dev-160911-authRole",
+      "UnauthRoleArn": "arn:aws:iam::762569647001:role/amplify-helloworldnextjs-dev-160911-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::762569647001:role/amplify-helloworldnextjs-dev-160911-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-helloworldnextjs-dev-160911-deployment",
+      "UnauthRoleName": "amplify-helloworldnextjs-dev-160911-unauthRole",
+      "StackName": "amplify-helloworldnextjs-dev-160911",
+      "StackId": "arn:aws:cloudformation:us-east-1:762569647001:stack/amplify-helloworldnextjs-dev-160911/59e81e10-a461-11ec-beb9-0ec92f60fb8b",
+      "AmplifyAppId": "d3l5z996920lry"
+    }
+  }
+}
